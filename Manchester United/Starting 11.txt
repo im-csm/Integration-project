@@ -1,0 +1,7 @@
+Goalie: De Gea
+ 
+Defense: Shaw  Bailly  Maguire  Rojo
+
+Midfield: Pogba  Fernandes  Fred
+
+Attack: Martial  Rashford  Greenwood
